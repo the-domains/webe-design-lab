@@ -27,3 +27,6 @@ navigation:
   - name: SRIRAM RESIDENCE
     id: 84a97ace-7d60-480e-aadd-fbc721667dfb
     type: content
+  - name: B601
+    id: 14cbd7ef-3371-4826-9de1-f521ece35b9e
+    type: content
