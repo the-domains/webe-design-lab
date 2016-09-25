@@ -1,0 +1,29 @@
+typography_spectrum: 0.6998801839072257
+color:
+  brandStrength: 0.9578824427444488
+  lightness: 0.5973557168617845
+  saturation: 0.5033972084056586
+  rhythmicContrast: 0.24008180829696357
+github: true
+opengraph:
+  type: 'https://www.facebook.com/webedesignlab'
+layout_spectrum: 0.7772493637166917
+author:
+  name: karthikeyan
+  email: karthi@webedesignlab.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7f5139b-518f-447c-9a37-f18e8d6a9df6.png
+name: webe design lab
+navigation:
+  - name: B601
+    id: 18b0233f-731c-46d5-9b20-0a6b07965080
+    type: content
+  - name: FARM HOUSE AT UTHANDI
+    id: afaa58a9-5433-404f-b510-58e3db3ef6e6
+    type: content
+  - name: SOWMIYA LANDSCAPE
+    id: 42b6f274-ba59-4860-be9a-20c3f2ab9ab1
+    type: content
+  - name: SRIRAM RESIDENCE
+    id: 84a97ace-7d60-480e-aadd-fbc721667dfb
+    type: content
