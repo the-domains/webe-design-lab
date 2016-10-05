@@ -30,3 +30,7 @@ navigation:
   - name: farm house at uthandi
     id: ca0b6570-1e98-4db0-8bd4-6764a498659c
     type: content
+purpose:
+  - type: internal
+    label: B601
+    item: b1fc7a3c-0586-412e-a72a-0c0fcb157d6f
