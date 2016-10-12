@@ -1,19 +1,26 @@
-typography_spectrum: 0.6998801839072257
-color:
-  brandStrength: 0.9578824427444488
-  lightness: 0.5973557168617845
-  saturation: 0.5033972084056586
-  rhythmicContrast: 0.24008180829696357
+content: []
 github: true
-opengraph:
-  type: 'https://www.facebook.com/webedesignlab'
-layout_spectrum: 0.7772493637166917
-author:
-  name: karthikeyan
-  email: karthi@webedesignlab.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7f5139b-518f-447c-9a37-f18e8d6a9df6.png
-name: webe design lab
+purpose:
+  - type: internal
+    label: B601
+    item: b1fc7a3c-0586-412e-a72a-0c0fcb157d6f
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.4361702
+  brandStrength: 0.9578824427444488
+  lightness: 0.5297872
+  rhythmicContrast: 0.2400818
 navigation:
   - name: B601
     id: 18b0233f-731c-46d5-9b20-0a6b07965080
@@ -30,7 +37,13 @@ navigation:
   - name: farm house at uthandi
     id: ca0b6570-1e98-4db0-8bd4-6764a498659c
     type: content
-purpose:
-  - type: internal
-    label: B601
-    item: b1fc7a3c-0586-412e-a72a-0c0fcb157d6f
+name: webe design lab
+author:
+  name: karthikeyan
+  email: karthi@webedesignlab.com
+opengraph:
+  type: 'https://www.facebook.com/webedesignlab'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7f5139b-518f-447c-9a37-f18e8d6a9df6.png
+typography_spectrum: 0.8276595
+layout_spectrum: 0.1829787
